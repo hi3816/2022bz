@@ -57,6 +57,7 @@ public class main {
 //		library3[0].showInfo();
 		*/
 		
+		/*
 		int [][] arr2 = new int[5][5];
 
 		for (int i = 0 ;i <5;i++) {
@@ -67,10 +68,17 @@ public class main {
 			}
 		}
 		
-//		int [][] arr2 = new int[4][3];
-//		for (int i = 0; i < 3;i++) {
-//			for (int =
-//		}
+		int [][] arr3 = new int[4][3];
+		for (int i = 0; i < 4;i++) {
+			for (int j = 0; j < 3 ; j ++) {
+				arr3[i][j] = (i*arr2.length)+j+1;
+				System.out.println(arr3[i][j]);
+				
+			}
+		}
+		*/
+		
+		
 	}
 
 }
