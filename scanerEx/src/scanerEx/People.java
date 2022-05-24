@@ -1,4 +1,4 @@
-package mid_practice3;
+package scanerEx;
 
 public class People {
 	String name;
